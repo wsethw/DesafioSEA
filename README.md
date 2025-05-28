@@ -82,7 +82,7 @@ A interface estará em http://localhost:3000/.
 🛠️ Tecnologias Utilizadas
 - Backend
 
-Java 17
+Java
 
 Spring Boot
 
