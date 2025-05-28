@@ -81,17 +81,27 @@ A interface estará em http://localhost:3000/.
 
 🛠️ Tecnologias Utilizadas
 Backend
+
 Java 17
+
 Spring Boot
+
 Spring Security (JWT)
+
 Spring Data JPA (Hibernate)
+
 Banco de dados H2 (in-memory)
+
 Lombok
 
 Frontend
+
 React 18
+
 React Router v6
+
 Axios
+
 react-input-mask
 CSS modular (App.css, LoginPage.css, Navbar.css)
 Integração com API ViaCEP
