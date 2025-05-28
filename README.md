@@ -80,7 +80,7 @@ A interface estará em http://localhost:3000/.
 ---
 
 🛠️ Tecnologias Utilizadas
-Backend
+- Backend
 
 Java 17
 
@@ -94,7 +94,7 @@ Banco de dados H2 (in-memory)
 
 Lombok
 
-Frontend
+- Frontend
 
 React 18
 
@@ -103,5 +103,7 @@ React Router v6
 Axios
 
 react-input-mask
+
 CSS modular (App.css, LoginPage.css, Navbar.css)
+
 Integração com API ViaCEP
