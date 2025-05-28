@@ -47,9 +47,9 @@ Este projeto faz parte do **Desafio 1 da SEA** e implementa um sistema de **aute
 
 ## 🧪 Pré-requisitos
 
-- **Java 17+**  
+- **Java**  
 - **Maven**  
-- **Node.js 16+**  
+- **Node.js**  
 - **npm** ou **yarn**  
 
 ---
@@ -92,7 +92,7 @@ Spring Data JPA (Hibernate)
 
 Banco de dados H2 (in-memory)
 
-Lombok
+Lombok<br><br>
 
 - Frontend
 
